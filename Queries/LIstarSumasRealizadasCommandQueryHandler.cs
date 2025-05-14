@@ -13,7 +13,7 @@ namespace UsoMeiatR.CQRS.Queries
             // Simulando una lista de resultados
             var resultados = new List<ResultadoDto>
             {
-                new (1, 2, 3),
+                new (1, 5, 6),
                 new (4, 5, 9),
                 new (10, 20, 30)
             };
